@@ -33,7 +33,7 @@
 			Customer Details</h3>
 		<hr>
 
-		<p class="h4 mb-4">Student Details</p>
+		<p class="h4 mb-4">Customer Details</p>
 
 		<form action="/CRMWebTracker/customer/save" method="POST">
 

@@ -41,7 +41,7 @@
 
 			<!-- Add a button -->
 			<a href="/CRMWebTracker/customer/begin-add"
-				class="btn btn-primary btn-sm mb-3"> Add Student </a>
+				class="btn btn-primary btn-sm mb-3"> Add Customer </a>
 
 
 
